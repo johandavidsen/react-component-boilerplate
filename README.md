@@ -1,14 +1,12 @@
-[![build status](https://secure.travis-ci.org/survivejs/react-component-boilerplate.svg)](http://travis-ci.org/survivejs/react-component-boilerplate) [![bitHound Score](https://www.bithound.io/github/survivejs/react-component-boilerplate/badges/score.svg)](https://www.bithound.io/github/survivejs/react-component-boilerplate) [![Dependency Status](https://david-dm.org/survivejs/react-component-boilerplate.svg)](https://david-dm.org/survivejs/react-component-boilerplate)
+ [![Dependency Status](https://david-dm.org/survivejs/react-component-boilerplate.svg)](https://david-dm.org/survivejs/react-component-boilerplate)
 
 # react-component-boilerplate - Boilerplate for React.js components
 
 This is a simple boilerplate that has been developed to make it easier to develop React components and small projects.
 
-> Check out [SurviveJS - Webpack and React](http://survivejs.com/) to dig deeper into the topic.
-
 ## Basic Usage
 
-Clone the repo : `git clone https://github.com/survivejs/react-component-boilerplate my-component`.
+Clone the repo : `git clone https://github.com/johandavidsen/react-component-boilerplate my-component`.
 
 To get started with fresh history, do this:
 
@@ -58,4 +56,3 @@ console.log(a + b);
 ## License
 
 *react-component-boilerplate* is available under MIT. See LICENSE for more details.
-
